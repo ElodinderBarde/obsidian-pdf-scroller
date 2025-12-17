@@ -1,0 +1,10 @@
+{
+  "id": "auto-pdf-scroll",
+  "name": "Auto PDF Scroll",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Scrollt das PDF im linken Panel automatisch, wenn im Editor eine einstellbare Zeichenmenge erreicht wird.",
+  "author": "Elodin",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
